@@ -1,0 +1,13 @@
+run,rank,k,group,get_util
+1,Y,50,all,0
+1,Y,50,VAL,58.31163125248915
+1,Y,100,all,0
+1,Y,100,VAL,99.30598938379146
+1,Y_count,50,all,0
+1,Y_count,50,VAL,-64.26023824241845
+1,Y_count,100,all,0
+1,Y_count,100,VAL,-155.0672713833633
+1,Y_count_resolve,50,all,0
+1,Y_count_resolve,50,VAL,57.11733282350443
+1,Y_count_resolve,100,all,0
+1,Y_count_resolve,100,VAL,97.69527130555088

@@ -9,9 +9,9 @@ Paper: https://arxiv.org/abs/2011.04219
 `simulation_a.ipynb` reproduces the simulations from Section 4.2, Section 4.4, and Section 4.5. It also contains an implementation of our algorithm.
 
 
-`CIFRank/simulation_b.py` reproduces the simulations from Section 4.3. This code builds (heavily) on the repository [CIFRank](https://github.com/DataResponsibly/CIFRank). To execute this code run
+`CIFRank/simulation_b.py` reproduces the simulations from Section 4.3. This code builds (heavily) on the repository [CIFRank](https://github.com/DataResponsibly/CIFRank). To execute this code run the following command inside the `CIFRank` folder
 ```
-python CIFRank/simulation_b.py "run_exp" "100" "False" "True"
+python simulation_b.py "run_exp" "100" "False" "True"
 ```
 
 Add images from occupations dataset if you want to run CNN-based classifier natively.
